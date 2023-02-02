@@ -1,5 +1,0 @@
-function prices(price){
-return (
-    
-)
-}
